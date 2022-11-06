@@ -1,0 +1,4 @@
+﻿  red-black tree.cpp
+D:\Studia\3 semestr\Algorytmy\lab04\red-black tree\red-black tree.cpp(249,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\Studia\3 semestr\Algorytmy\lab04\red-black tree\red-black tree.cpp(138): warning C4715: "Tree<int>::searchElement”: niewszystkie ścieżki kodu zwracają wartość
+  red-black tree.vcxproj -> D:\Studia\3 semestr\Algorytmy\lab04\red-black tree\Debug\red-black tree.exe

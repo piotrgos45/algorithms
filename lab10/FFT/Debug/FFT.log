@@ -1,0 +1,2 @@
+﻿  FFT.cpp
+D:\Studia\3 semestr\Algorytmy\lab10\FFT\FFT.cpp(16,59): error C2676: dwuargumentowy "*": "std::complex<double>" nie definiuje tego operatora lub konwersji do typu akceptowalnego dla wstępnie zdefiniowanego operatora

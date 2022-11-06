@@ -1,0 +1,7 @@
+﻿  hash_table.cpp
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\hash_table.cpp(406,2): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\hash_table.cpp(404): message : podczas kompilowania funkcji składowej „int Array<int>::hashFunction(std::string)” klasy klasa szablon
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\hash_table.cpp(398): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „int Array<int>::hashFunction(std::string)” funkcji szablon
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\hash_table.cpp(419): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „Array<int>” klasy klasa szablon
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\hash_table.cpp(407,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  hash_table.vcxproj -> D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\Debug\hash_table.exe

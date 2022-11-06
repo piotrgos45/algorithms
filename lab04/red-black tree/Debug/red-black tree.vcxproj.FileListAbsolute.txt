@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\lab04\red-black tree\Debug\red-black tree.exe
+D:\Studia\3 semestr\Algorytmy\lab04\red-black tree\Debug\red-black tree.pdb

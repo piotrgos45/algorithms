@@ -1,0 +1,3 @@
+﻿  Kruskal.cpp
+D:\Studia\3 semestr\Algorytmy\lab08\Kruskal\Kruskal.cpp(133,9): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+  Kruskal.vcxproj -> D:\Studia\3 semestr\Algorytmy\lab08\Kruskal\Debug\Kruskal.exe

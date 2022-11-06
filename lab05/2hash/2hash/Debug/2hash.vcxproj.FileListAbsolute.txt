@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\Debug\2hash.exe
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\Debug\2hash.pdb

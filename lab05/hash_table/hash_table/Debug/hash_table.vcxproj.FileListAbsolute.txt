@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\Debug\hash_table.exe
+D:\Studia\3 semestr\Algorytmy\lab05\hash_table\hash_table\Debug\hash_table.pdb

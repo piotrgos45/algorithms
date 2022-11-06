@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\lab06\binary heap\Debug\binary heap.exe
+D:\Studia\3 semestr\Algorytmy\lab06\binary heap\Debug\binary heap.pdb

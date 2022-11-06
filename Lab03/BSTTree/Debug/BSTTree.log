@@ -1,0 +1,3 @@
+﻿  BSTTree.cpp
+D:\Studia\3 semestr\Algorytmy\Lab03\BSTTree\BSTTree.cpp(220,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  BSTTree.vcxproj -> D:\Studia\3 semestr\Algorytmy\Lab03\BSTTree\Debug\BSTTree.exe

@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\Lab2\Array\Debug\Array.exe
+D:\Studia\3 semestr\Algorytmy\Lab2\Array\Debug\Array.pdb

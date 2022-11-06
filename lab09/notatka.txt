@@ -1,0 +1,19 @@
+znalezienie min y, a jeśli kilka to min x
+
+przesunąć wszystkie punkty tak, aby p0 był początkiem ukladu
+(translacja)
+P'x = Pxi - Min x
+M'yi = Py - Min y
+
+
+Sortujemy według narastających kątów, kąt - początek układu według alfa
+
+dodajemy do powłoki
+jeżeli następny w prawo to odjemujemy bieżący
+
+
+
+Sortowanie:
+mamy dwa wektory, szukamy kąta miedzy tymi wektorami
+
+//________________________________

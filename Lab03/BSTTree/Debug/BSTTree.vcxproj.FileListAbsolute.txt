@@ -1,0 +1,2 @@
+D:\Studia\3 semestr\Algorytmy\Lab03\BSTTree\Debug\BSTTree.exe
+D:\Studia\3 semestr\Algorytmy\Lab03\BSTTree\Debug\BSTTree.pdb

@@ -1,0 +1,8 @@
+﻿  2hash.cpp
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,1): error C3927: „->”: nie można używać końcowego typu zwracanego po deklaratorze niebędącym funkcją
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(378): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „hashTable<T>” klasy klasa szablon
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,16): error C3484: błąd składni: oczekiwano "->" przed zwracanym typem
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,1): error C3613: brak typu zwracanego po „->” (przyjęto typ „int”)
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,1): error C3646: "add": nieznany specyfikator przesłonięcia
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,20): error C2059: błąd składniowy: „(”
+D:\Studia\3 semestr\Algorytmy\lab05\2hash\2hash\2hash.cpp(377,1): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
